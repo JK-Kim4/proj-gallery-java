@@ -1,8 +1,6 @@
-# [Template] JPA
-- Template Project for JPA
+# personal project [react.js / node.js / *java]
+---
+> Gallery project admin service
+> : 어드민 페이지
 
-- Dependencies
-  - spring-dev-tool
-  - lombok
-  - h2
-  - jpa
+- Java / Spring boot / JPA
